@@ -1,30 +1,33 @@
-# 📑 Papers
+# 📑 Research & Engineering Portfolio
 
-This repository contains my academic research portfolio, with a primary focus on PMSM systems and observer-based control developed during my master's studies.
+This repository contains my academic papers and engineering projects, prepared as a professional portfolio for industry positions in motor control and system modeling.
 
 ---
 
-## 🎯 Research Focus
+## 🎯 Focus Areas
 
-My graduate research centers on permanent magnet synchronous machine (PMSM) systems, including observer design, neural network–based uncertainty estimation, and simulation-driven validation.
+My master's research and projects primarily focus on PMSM systems, observer-based load torque estimation, and simulation-driven validation.  
+In particular, I independently built a full simulation environment to study PMSM load torque estimation, from system modeling to controller and observer implementation.
 
-My undergraduate work established a strong foundation in classical and modern control theory, particularly controller and observer design methodologies.
+My undergraduate work established a strong foundation in control theory, especially controller and observer design methodologies.
 
 ---
 
 ## 📂 Repository Structure
 
-- **master-papers/** — PMSM-oriented research, including my master's thesis and conference papers.
-- **bachelor-papers/** — Undergraduate projects focused on learning control and observer design fundamentals.
+- **master-papers/** — Master's thesis and publications validated through PMSM-based modeling and simulations.
+- **bachelor-papers/** — Undergraduate research focused on control fundamentals.
+- **projects/** — Simulation and modeling projects developed during my master's program.
 
 ---
 
 ## ⭐ Highlighted Expertise
 
-- PMSM Modeling and Simulation, with a focus on inverter nonlinearity estimation
+- PMSM Modeling and Simulation
+- Load Torque Estimation
 - Neural Network–Based Observers
 - LMI Optimization
 - Robust and Adaptive Control
-- MATLAB/Simulink Validation
+- MATLAB/Simulink Development
 
 ---
