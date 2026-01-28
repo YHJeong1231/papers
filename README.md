@@ -17,7 +17,7 @@ My undergraduate work established a strong foundation in control theory, especia
 
 - **master-papers/** — Master's thesis and publications validated through PMSM-based modeling and simulations.
 - **bachelor-papers/** — Undergraduate research focused on control fundamentals.
-- **projects/** — Simulation and modeling projects
+- **projects/** — Simulation and modeling projects (PMSM and DC Motors)
 
 ---
 
