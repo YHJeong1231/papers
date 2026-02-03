@@ -9,7 +9,7 @@ All proposed algorithms were systematically validated through:
 - High-fidelity PMSM and inverter models  
 - Discrete-time simulation frameworks  
 - Comparison of estimation accuracy using RMSE metrics  
-- Robustness analysis under noise and nonlinear disturbances  
+- Robustness analysis under measurement noise and nonlinear disturbances  
 - $H_\infty$-based performance evaluation  
 
 ---
