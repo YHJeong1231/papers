@@ -20,7 +20,7 @@ All proposed algorithms were systematically validated through:
 **LMI-Based Neural Observer for PMSM for State and Nonlinearity Estimation**
 
 - Compressor-type periodic load torque modeling  
-- Unified gain design for implementation simplicity with LMI-based optimization
+- Unified gain design in descrete-time domain for implementation simplicity with LMI-based optimization
 - Reduce effects such as measurement noise and disturbances $H_\infty$-based optimization 
 - Thorough validation through time-domain simulations  
 - **PDF**: [Download](IECON2025.pdf)
