@@ -28,7 +28,7 @@ My undergraduate work established a strong foundation in control theory, especia
 - **Observer Synthesis:** LMI-based observer design ensuring stability and performance.
 - **Load Torque Estimation:** Observer methods validated under rapidly varying loads.
 - **LMI Optimization:** Convex optimization for gain selection with performance guarantees.
-- **Robust Control:** \(H_\infty\) observer formulation to handle noise and nonlinearities.
+- **Robust Control:** $H_\infty$-based observer formulation to handle noise and nonlinearities.
 - **MATLAB/Simulink Development:** Full simulation environments constructed from scratch.
 
 ---
